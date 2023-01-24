@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "dom"],
+    "types": ["cypress", "node", "@testing-library/cypress"]
+  },
+  "include": [
+    "../node_modules/cypress",
+    "cypress/support/*.ts",
+    "../tsconfig.json",
+    "../package.json",
+    "./**/*.ts",
+    "e2e/*.ts"
+  ]
+}
