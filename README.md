@@ -2,6 +2,12 @@
 
 Next.js - Node.js - Typescript - Jest - Cypress - Tailwindcss - Eslint - Prettier - Lintstaged - Hasky
 
+## Author
+
+Mehmethan Guven
+<br/>
+<a href='mailto:mehmethanguven@gmail.com<'>mehmethanguven@gmail.com</a>
+
 ## What's inside?
 
 This turborepo uses [Yarn](https://classic.yarnpkg.com/) as a package manager. It includes the following packages/apps:
