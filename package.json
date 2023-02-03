@@ -2,6 +2,10 @@
   "name": "turborepo",
   "version": "0.0.0",
   "private": true,
+  "author": {
+    "name": "Mehmethan Guven",
+    "email": "mehmethanguven@gmail.com"
+  },
   "workspaces": [
     "apps/*",
     "packages/*"
