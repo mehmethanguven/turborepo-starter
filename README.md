@@ -7,6 +7,8 @@ Next.js - Node.js - Typescript - Jest - Cypress - Tailwindcss - Eslint - Prettie
 Mehmethan Guven
 <br/>
 <a href='mailto:mehmethanguven@gmail.com<'>mehmethanguven@gmail.com</a>
+<br/>
+Hire me!
 
 ## What's inside?
 
